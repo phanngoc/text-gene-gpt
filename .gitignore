@@ -1,2 +1,8 @@
 /models
 /checkpoint
+/preprocessing
+/data
+/cache_dir
+/outputs
+/runs
+/wandb
